@@ -3,7 +3,7 @@ provider "aws"{
 }
 
 variable "bucket_name" {
-    type = String
+    type = string
 }
 
 
