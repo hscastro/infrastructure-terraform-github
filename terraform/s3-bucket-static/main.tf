@@ -2,7 +2,7 @@ provider "aws"{
     region = "us-east-1"
 }
 
-variables "bucket_name" {
+variable "bucket_name" {
     type = String
 }
 
