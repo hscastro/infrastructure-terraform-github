@@ -3,7 +3,7 @@ name: Create S3 site static
 on:
   issues:
     type:
-      -opend
+      -opened
 
 
 jobs:
